@@ -10,6 +10,9 @@ This project contains sample code that demonstrates how to perform workflow admi
 * using LIve Instance Management to migrate a running workflow from one process definition version to another
 * managing active process instances to perform operations such as GoToActivity, Stop and Resume
 
+Find more information about this API in the K2 Developers Reference at
+https://help.k2.com/onlinehelp/k2five/DevRef/current/default.htm#Runtime/WF-Manage/WFManage-Intro.htm
+
 ## Prerequisites
 The sample code has the following dependencies: 
 * .NET Assemblies (both assemblies are included with K2 client-side tools install and are also included in the project's References folder)
